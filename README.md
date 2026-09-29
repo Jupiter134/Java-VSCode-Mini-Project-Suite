@@ -18,8 +18,14 @@ QuickSort
 BinaryTree  
 --> Simple java code that creates a binary tree using integers from user input, then displays the height of the tree and the values found during inorder and preorder traversal
 
+BalancedBinaryTree  
+--> Simple java code that creates a binary tree by recursively adding Nodes from user input ad checking the depth of the subtrees. Returns the minimum depth of the tree.
+
 LinkedList  
 --> PLEASE NOTE - only commented sections were written by me. Very early simple singly-linked list palindrome checker using java.
+
+BitManipulation  
+--> Simple java code that calculates the number of set bits (1s) in the binary representation of every integer from 0 to n inclusive. 
 
 
 
