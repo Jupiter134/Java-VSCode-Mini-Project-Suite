@@ -15,3 +15,8 @@ Palindrome
 QuickSort  
 --> Simple java code that uses a recursive QuickSort algorithm to sort students given their student ID, first name, and GPA. Sorts first by GPA, if GPA is matching then by first name, and if first name and GPA are the same, sort by student ID.
 
+BinaryTree  
+--> Simple java code that creates a binary tree using integers from user input, then displays the height of the tree and the values found during inorder and preorder traversal
+
+
+
