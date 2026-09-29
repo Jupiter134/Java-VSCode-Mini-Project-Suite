@@ -9,3 +9,6 @@ SuperCrusher
 StringSearch  
 --> Simple java code that uses kmp (Knuth-Morris-Pratt) method to search a user-inputted string using a given pattern.
 
+Palindrome  
+--> Simple java code to check if a given string is a palindrome. If not, it attempts to make the string a palindrome by adding any one lowercase letter anywhere in the string. 
+
