@@ -18,5 +18,10 @@ QuickSort
 BinaryTree  
 --> Simple java code that creates a binary tree using integers from user input, then displays the height of the tree and the values found during inorder and preorder traversal
 
+LinkedList  
+--> PLEASE NOTE - only commented sections were written by me. Very early simple singly-linked list palindrome checker using java.
+
+
+
 
 
